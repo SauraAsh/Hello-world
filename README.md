@@ -2,9 +2,7 @@
 
 A minimal yet professional web application showcasing clean HTML5 principles and industry-standard documentation practices.
 
----
-
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -15,8 +13,6 @@ A minimal yet professional web application showcasing clean HTML5 principles and
 - [Contributing](#contributing)
 - [License](#license)
 
----
-
 ## Overview
 
 This project is a static web application that demonstrates fundamental web development principles through a clean, minimal implementation. It serves as an educational foundation for understanding:
@@ -26,48 +22,44 @@ This project is a static web application that demonstrates fundamental web devel
 - Comprehensive documentation standards
 - Clean code principles
 
----
+## Features
 
-## ✨ Features
+- Semantic HTML5 markup
+- W3C compliant code
+- Cross-browser compatible
+- Mobile-responsive design
+- Zero dependencies
+- Full documentation suite
+- Git version control ready
 
-- ✅ Semantic HTML5 markup
-- ✅ W3C compliant code
-- ✅ Cross-browser compatibility
-- ✅ Mobile-responsive design
-- ✅ Zero dependencies
-- ✅ Professional documentation suite
-- ✅ Git version control ready
-
----
-
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
-- Modern web browser (Chrome, Firefox, Safari, Edge)
+- A modern web browser (Chrome, Firefox, Safari, Edge)
 - Git (optional, for cloning)
 - No additional dependencies
 
 ### Installation
 
 **Option 1: Clone from GitHub**
+
 ```bash
 git clone git@github.com:SauraAsh/Hello-world.git
-cd hello-world
+cd Hello-world
 open index.html
 ```
 
-**Option 2: Direct Open**
+**Option 2: Direct download**
+
 1. Download or clone the repository
 2. Navigate to the project folder
-3. Double-click `index.html` to open in your default browser
+3. Double-click `index.html` to open it in your default browser
 
----
-
-## 📁 Project Structure
+## Project Structure
 
 ```
-hello-world/
+Hello-world/
 ├── index.html         # Main application (Hello World display)
 ├── README.md          # Project overview & getting started
 ├── codebase.md        # Architecture & technical reference
@@ -77,35 +69,29 @@ hello-world/
 └── .gitignore         # Git configuration
 ```
 
----
-
-## 📚 Documentation
+## Documentation
 
 | Document | Purpose | Audience |
 |----------|---------|----------|
 | [README.md](README.md) | Project overview & setup | All users |
-| [Codebase](codebase.md) | Architecture & structure | Developers |
-| [Design Guidelines](design.md) | Standards & best practices | Developers |
-| [Agents](agents.md) | Workflow automation | DevOps/Developers |
-| [Changelog](changelog.md) | Version history | All stakeholders |
+| [codebase.md](codebase.md) | Architecture & structure | Developers |
+| [design.md](design.md) | Standards & best practices | Developers |
+| [agents.md](agents.md) | Workflow automation | DevOps/Developers |
+| [changelog.md](changelog.md) | Version history | All stakeholders |
 
----
-
-## 🛠 Technologies
+## Technologies
 
 | Layer | Technology |
 |-------|-----------|
 | Markup | HTML5 |
 | Styling | CSS (minimal) |
 | Scripting | None (progressive enhancement) |
-| Version Control | Git |
+| Version control | Git |
 | Repository | GitHub |
 
----
+## Contributing
 
-## 🤝 Contributing
-
-Contributions are welcome! Please:
+Contributions are welcome:
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/improvement`)
@@ -113,28 +99,14 @@ Contributions are welcome! Please:
 4. Push to the branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
-For more details, see [agents.md](agents.md)
+See [agents.md](agents.md) for more details.
 
----
-
-## 📄 License
+## License
 
 This project is open source and available for educational and commercial purposes.
 
----
+## Author
 
-## 👤 Author
-
-**SauraAsh**  
-GitHub: [@SauraAsh](https://github.com/SauraAsh)  
+**SauraAsh**
+GitHub: [@SauraAsh](https://github.com/SauraAsh)
 Repository: [Hello-world](https://github.com/SauraAsh/Hello-world)
-
----
-
-<div align="center">
-
-**[⬆ back to top](#hello-world-project)**
-
-Made with ❤️ for the community
-
-</div>
