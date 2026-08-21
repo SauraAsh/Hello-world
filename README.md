@@ -31,6 +31,7 @@ This project is a static web application that demonstrates fundamental web devel
 - Zero dependencies
 - Full documentation suite
 - Git version control ready
+- Hello World examples in 12 languages, for programmers learning in their own language
 
 ## Quick Start
 
@@ -56,17 +57,32 @@ open index.html
 2. Navigate to the project folder
 3. Double-click `index.html` to open it in your default browser
 
+Learning in another language? Open the matching file in `multilingual/` instead — for example, `multilingual/index-id.html` for Indonesian or `multilingual/index-ja.html` for Japanese.
+
 ## Project Structure
 
 ```
 Hello-world/
-├── index.html         # Main application (Hello World display)
-├── README.md          # Project overview & getting started
-├── codebase.md        # Architecture & technical reference
-├── design.md          # Design principles & coding standards
-├── agents.md          # Automation workflows documentation
-├── changelog.md       # Version history & release notes
-└── .gitignore         # Git configuration
+├── multilingual/         # Hello World in 12 languages, for learners
+│   ├── index-de.html     # German
+│   ├── index-en.html     # English
+│   ├── index-es.html     # Spanish
+│   ├── index-fr.html     # French
+│   ├── index-id.html     # Indonesian
+│   ├── index-it.html     # Italian
+│   ├── index-ja.html     # Japanese
+│   ├── index-ko.html     # Korean
+│   ├── index-lo.html     # Lao
+│   ├── index-ru.html     # Russian
+│   ├── index-vi.html     # Vietnamese
+│   └── index-zh.html     # Chinese
+├── .agents/              # Agent configuration
+├── agents.md             # Automation workflows documentation
+├── changelog.md          # Version history & release notes
+├── codebase.md           # Architecture & technical reference
+├── design.md             # Design principles & coding standards
+├── index.html            # Main application (Hello World display)
+└── README.md             # Project overview & getting started
 ```
 
 ## Documentation
